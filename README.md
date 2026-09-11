@@ -78,7 +78,17 @@ The **Match Statistics Dashboard** analyzes:
 * Venue-wise analysis
 
 ---
+### 🏆 Team Statistics
 
+![Team Statistics](1000092225.jpg)
+
+### 👤 Player Statistics
+
+![Player Statistics](1000092226.jpg)
+
+### 🏏 Match Statistics
+
+![Match Statistics](1000092227.jpg)
 ## 🖼️ Dashboard Screenshots
 
 ### 🏆 Team Statistics
