@@ -79,7 +79,7 @@ The **Match Statistics Dashboard** analyzes:
 
 ---
 ## 🖼️ Dashboard Screenshots
-
+<img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/xxxxx" />
 ### 🏆 Team Statistics
 
 ![Team Statistics Dashboard](images/Team-Statistics.jpg)
