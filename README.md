@@ -79,23 +79,23 @@ The **Match Statistics Dashboard** analyzes:
 
 ---
 ## 🖼️ Dashboard Screenshots
+## 🖼️ Dashboard Screenshots
 
 ### 🏏 Match Statistics
 
-<img width="1280" alt="Match Statistics Dashboard" src="images/Match-Statastics.png" />
+![Match Statistics Dashboard](images/Match-Statastics.png)
 
 ---
 
 ### 👤 Players Statistics
 
-<img width="1280" alt="Players Statistics Dashboard" src="images/Players-Statistics.png" />
+![Players Statistics Dashboard](images/Players-Statistics.png)
 
 ---
 
 ### 🏆 Team Statistics
 
-<img width="1280" alt="Team Statistics Dashboard" src="images/Team-Statistics.png" />
----
+![Team Statistics Dashboard](images/Team-Statistics.png)
 
 ## 🛠️ Tools & Technologies
 
